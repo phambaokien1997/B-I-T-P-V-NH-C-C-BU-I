@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN4.3\bin\Debug\BTVN4.3.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\BTVN4.3\bin\Debug\BTVN4.3.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN4.3\bin\Debug\BTVN4.3.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN4.3\obj\Debug\BTVN4.3.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN4.3\obj\Debug\BTVN4.3.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN4.3\obj\Debug\BTVN4.3.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN4.3\obj\Debug\BTVN4.3.pdb
