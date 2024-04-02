@@ -1,0 +1,10 @@
+﻿int a;
+int b;
+int c;
+Console.WriteLine("nhap a:");
+a = int.Parse(Console.ReadLine());
+Console.WriteLine("nhap b:");
+b = int.Parse(Console.ReadLine());
+c = a + b;
+Console.WriteLine("tong cua 2 so duoc nhap tu ban phim la: {0}", c);
+Console.ReadKey();

@@ -1,0 +1,14 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\obj\Debug\net8.0\BT5.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\obj\Debug\net8.0\BT5.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\obj\Debug\net8.0\BT5.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\obj\Debug\net8.0\BT5.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\bin\Debug\net8.0\BT5.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\bin\Debug\net8.0\BT5.deps.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\bin\Debug\net8.0\BT5.runtimeconfig.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\bin\Debug\net8.0\BT5.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\bin\Debug\net8.0\BT5.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\obj\Debug\net8.0\BT5.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\obj\Debug\net8.0\refint\BT5.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\obj\Debug\net8.0\BT5.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\obj\Debug\net8.0\BT5.genruntimeconfig.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT5\obj\Debug\net8.0\ref\BT5.dll

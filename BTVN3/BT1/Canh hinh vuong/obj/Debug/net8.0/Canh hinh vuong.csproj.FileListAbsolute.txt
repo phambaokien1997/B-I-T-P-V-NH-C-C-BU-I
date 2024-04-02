@@ -1,0 +1,14 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\bin\Debug\net8.0\Canh hinh vuong.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\bin\Debug\net8.0\Canh hinh vuong.deps.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\bin\Debug\net8.0\Canh hinh vuong.runtimeconfig.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\bin\Debug\net8.0\Canh hinh vuong.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\bin\Debug\net8.0\Canh hinh vuong.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\obj\Debug\net8.0\Canh hinh vuong.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\obj\Debug\net8.0\Canh hinh vuong.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\obj\Debug\net8.0\Canh hinh vuong.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\obj\Debug\net8.0\Canh hinh vuong.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\obj\Debug\net8.0\Canh hinh vuong.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\obj\Debug\net8.0\refint\Canh hinh vuong.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\obj\Debug\net8.0\Canh hinh vuong.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\obj\Debug\net8.0\Canh hinh vuong.genruntimeconfig.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Canh hinh vuong\obj\Debug\net8.0\ref\Canh hinh vuong.dll

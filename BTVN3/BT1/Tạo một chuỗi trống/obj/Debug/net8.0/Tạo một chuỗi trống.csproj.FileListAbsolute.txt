@@ -1,0 +1,14 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\bin\Debug\net8.0\Tạo một chuỗi trống.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\bin\Debug\net8.0\Tạo một chuỗi trống.deps.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\bin\Debug\net8.0\Tạo một chuỗi trống.runtimeconfig.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\bin\Debug\net8.0\Tạo một chuỗi trống.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\bin\Debug\net8.0\Tạo một chuỗi trống.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\obj\Debug\net8.0\Tạo một chuỗi trống.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\obj\Debug\net8.0\Tạo một chuỗi trống.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\obj\Debug\net8.0\Tạo một chuỗi trống.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\obj\Debug\net8.0\Tạo một chuỗi trống.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\obj\Debug\net8.0\Tạo một chuỗi trống.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\obj\Debug\net8.0\refint\Tạo một chuỗi trống.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\obj\Debug\net8.0\Tạo một chuỗi trống.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\obj\Debug\net8.0\Tạo một chuỗi trống.genruntimeconfig.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Tạo một chuỗi trống\obj\Debug\net8.0\ref\Tạo một chuỗi trống.dll

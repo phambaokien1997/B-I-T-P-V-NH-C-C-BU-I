@@ -1,0 +1,14 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\bin\Debug\net8.0\BTVN2.3.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\bin\Debug\net8.0\BTVN2.3.deps.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\bin\Debug\net8.0\BTVN2.3.runtimeconfig.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\bin\Debug\net8.0\BTVN2.3.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\bin\Debug\net8.0\BTVN2.3.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\obj\Debug\net8.0\BTVN2.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\obj\Debug\net8.0\BTVN2.3.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\obj\Debug\net8.0\BTVN2.3.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\obj\Debug\net8.0\BTVN2.3.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\obj\Debug\net8.0\BTVN2.3.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\obj\Debug\net8.0\refint\BTVN2.3.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\obj\Debug\net8.0\BTVN2.3.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\obj\Debug\net8.0\BTVN2.3.genruntimeconfig.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BTVN2.3\obj\Debug\net8.0\ref\BTVN2.3.dll

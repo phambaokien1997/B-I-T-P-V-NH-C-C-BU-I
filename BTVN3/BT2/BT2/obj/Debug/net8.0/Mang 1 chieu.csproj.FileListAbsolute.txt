@@ -1,0 +1,14 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\bin\Debug\net8.0\Mang 1 chieu.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\bin\Debug\net8.0\Mang 1 chieu.deps.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\bin\Debug\net8.0\Mang 1 chieu.runtimeconfig.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\bin\Debug\net8.0\Mang 1 chieu.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\bin\Debug\net8.0\Mang 1 chieu.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\obj\Debug\net8.0\Mang 1 chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\obj\Debug\net8.0\Mang 1 chieu.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\obj\Debug\net8.0\Mang 1 chieu.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\obj\Debug\net8.0\Mang 1 chieu.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\obj\Debug\net8.0\Mang 1 chieu.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\obj\Debug\net8.0\refint\Mang 1 chieu.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\obj\Debug\net8.0\Mang 1 chieu.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\obj\Debug\net8.0\Mang 1 chieu.genruntimeconfig.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\BT2\obj\Debug\net8.0\ref\Mang 1 chieu.dll

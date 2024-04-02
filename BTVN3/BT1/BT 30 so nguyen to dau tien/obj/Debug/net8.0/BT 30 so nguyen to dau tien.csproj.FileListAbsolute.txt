@@ -1,0 +1,14 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\bin\Debug\net8.0\BT 30 so nguyen to dau tien.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\bin\Debug\net8.0\BT 30 so nguyen to dau tien.deps.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\bin\Debug\net8.0\BT 30 so nguyen to dau tien.runtimeconfig.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\bin\Debug\net8.0\BT 30 so nguyen to dau tien.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\bin\Debug\net8.0\BT 30 so nguyen to dau tien.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\obj\Debug\net8.0\BT 30 so nguyen to dau tien.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\obj\Debug\net8.0\BT 30 so nguyen to dau tien.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\obj\Debug\net8.0\BT 30 so nguyen to dau tien.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\obj\Debug\net8.0\BT 30 so nguyen to dau tien.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\obj\Debug\net8.0\BT 30 so nguyen to dau tien.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\obj\Debug\net8.0\refint\BT 30 so nguyen to dau tien.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\obj\Debug\net8.0\BT 30 so nguyen to dau tien.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\obj\Debug\net8.0\BT 30 so nguyen to dau tien.genruntimeconfig.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT 30 so nguyen to dau tien\obj\Debug\net8.0\ref\BT 30 so nguyen to dau tien.dll

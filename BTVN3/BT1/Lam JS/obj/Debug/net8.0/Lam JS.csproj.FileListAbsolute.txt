@@ -1,0 +1,14 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\bin\Debug\net8.0\Lam JS.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\bin\Debug\net8.0\Lam JS.deps.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\bin\Debug\net8.0\Lam JS.runtimeconfig.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\bin\Debug\net8.0\Lam JS.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\bin\Debug\net8.0\Lam JS.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\obj\Debug\net8.0\Lam JS.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\obj\Debug\net8.0\Lam JS.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\obj\Debug\net8.0\Lam JS.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\obj\Debug\net8.0\Lam JS.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\obj\Debug\net8.0\Lam JS.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\obj\Debug\net8.0\refint\Lam JS.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\obj\Debug\net8.0\Lam JS.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\obj\Debug\net8.0\Lam JS.genruntimeconfig.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\Lam JS\obj\Debug\net8.0\ref\Lam JS.dll

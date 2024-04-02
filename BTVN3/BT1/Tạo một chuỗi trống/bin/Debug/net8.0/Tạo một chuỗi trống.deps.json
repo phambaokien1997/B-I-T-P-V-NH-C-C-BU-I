@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tạo một chuỗi trống/1.0.0": {
+        "runtime": {
+          "Tạo một chuỗi trống.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tạo một chuỗi trống/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

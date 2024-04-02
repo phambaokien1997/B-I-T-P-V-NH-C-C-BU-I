@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\.vs\\BT1\\ColorByRegexConfig.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\BT1\\ColorByRegexConfig.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58D80894-E7C7-44A7-A0CE-E2F5F06259F3}|BT2\\BT2.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58D80894-E7C7-44A7-A0CE-E2F5F06259F3}|BT2\\BT2.csproj|solutionrelative:bt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1312DFE5-7FE1-41F8-BA03-61A573719E08}|BT \u002B\\BT \u002B.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\bt \u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1312DFE5-7FE1-41F8-BA03-61A573719E08}|BT \u002B\\BT \u002B.csproj|solutionrelative:bt \u002B\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC5D79E1-21CC-494F-98D5-748E2CD67E08}|BT 30 so nguyen to dau tien\\BT 30 so nguyen to dau tien.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\bt 30 so nguyen to dau tien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC5D79E1-21CC-494F-98D5-748E2CD67E08}|BT 30 so nguyen to dau tien\\BT 30 so nguyen to dau tien.csproj|solutionrelative:bt 30 so nguyen to dau tien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EACA0B16-2376-42B5-8238-17507502EF38}|Lam JS\\Lam JS.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\lam js\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EACA0B16-2376-42B5-8238-17507502EF38}|Lam JS\\Lam JS.csproj|solutionrelative:lam js\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A89618C-8F60-42B1-8B24-3A25F46DFBD2}|Canh hinh vuong\\Canh hinh vuong.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\canh hinh vuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A89618C-8F60-42B1-8B24-3A25F46DFBD2}|Canh hinh vuong\\Canh hinh vuong.csproj|solutionrelative:canh hinh vuong\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F33F5B28-7C6B-4498-B900-45B2F38ACCF2}|T\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng\\T\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\t\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F33F5B28-7C6B-4498-B900-45B2F38ACCF2}|T\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng\\T\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng.csproj|solutionrelative:t\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930CDFBC-7948-427B-9744-A4E186EB686B}|BT4\\BT4.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\bt4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930CDFBC-7948-427B-9744-A4E186EB686B}|BT4\\BT4.csproj|solutionrelative:bt4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1524621F-95A8-40EA-BCFC-7844C303A41F}|BT3\\BT3.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\bt3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1524621F-95A8-40EA-BCFC-7844C303A41F}|BT3\\BT3.csproj|solutionrelative:bt3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{112964BB-4113-4657-A13B-731041707E75}|BT s\u1ED1 nguy\u00EAn t\u1ED1\\BT s\u1ED1 nguy\u00EAn t\u1ED1.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\bt s\u1ED1 nguy\u00EAn t\u1ED1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{112964BB-4113-4657-A13B-731041707E75}|BT s\u1ED1 nguy\u00EAn t\u1ED1\\BT s\u1ED1 nguy\u00EAn t\u1ED1.csproj|solutionrelative:bt s\u1ED1 nguy\u00EAn t\u1ED1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC283811-0388-44BB-B726-FD0C490DF8DC}|BT6\\BT6.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\bt6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC283811-0388-44BB-B726-FD0C490DF8DC}|BT6\\BT6.csproj|solutionrelative:bt6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100E3DDB-0A26-413F-BB88-FC270E4CD68C}|BT5\\BT5.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn3\\bt1\\bt5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{100E3DDB-0A26-413F-BB88-FC270E4CD68C}|BT5\\BT5.csproj|solutionrelative:bt5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ColorByRegexConfig.txt",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\.vs\\BT1\\ColorByRegexConfig.txt",
+              "RelativeDocumentMoniker": ".vs\\BT1\\ColorByRegexConfig.txt",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\.vs\\BT1\\ColorByRegexConfig.txt",
+              "RelativeToolTip": ".vs\\BT1\\ColorByRegexConfig.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-31T14:32:08.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\Lam JS\\Program.cs",
+              "RelativeDocumentMoniker": "Lam JS\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\Lam JS\\Program.cs",
+              "RelativeToolTip": "Lam JS\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAADwv0AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T10:51:52.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\T\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng\\Program.cs",
+              "RelativeDocumentMoniker": "T\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\T\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng\\Program.cs",
+              "RelativeToolTip": "T\u1EA1o m\u1ED9t chu\u1ED7i tr\u1ED1ng\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T07:52:13.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\Canh hinh vuong\\Program.cs",
+              "RelativeDocumentMoniker": "Canh hinh vuong\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\Canh hinh vuong\\Program.cs",
+              "RelativeToolTip": "Canh hinh vuong\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T06:59:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT 30 so nguyen to dau tien\\Program.cs",
+              "RelativeDocumentMoniker": "BT 30 so nguyen to dau tien\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT 30 so nguyen to dau tien\\Program.cs",
+              "RelativeToolTip": "BT 30 so nguyen to dau tien\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:04:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT s\u1ED1 nguy\u00EAn t\u1ED1\\Program.cs",
+              "RelativeDocumentMoniker": "BT s\u1ED1 nguy\u00EAn t\u1ED1\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT s\u1ED1 nguy\u00EAn t\u1ED1\\Program.cs",
+              "RelativeToolTip": "BT s\u1ED1 nguy\u00EAn t\u1ED1\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T07:59:16.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT \u002B\\Program.cs",
+              "RelativeDocumentMoniker": "BT \u002B\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT \u002B\\Program.cs",
+              "RelativeToolTip": "BT \u002B\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T06:39:38.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT6\\Program.cs",
+              "RelativeDocumentMoniker": "BT6\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT6\\Program.cs",
+              "RelativeToolTip": "BT6\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBoAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T03:32:20.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT2\\Program.cs",
+              "RelativeDocumentMoniker": "BT2\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT2\\Program.cs",
+              "RelativeToolTip": "BT2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:26:55.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT3\\Program.cs",
+              "RelativeDocumentMoniker": "BT3\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT3\\Program.cs",
+              "RelativeToolTip": "BT3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:26:43.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT5\\Program.cs",
+              "RelativeDocumentMoniker": "BT5\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT5\\Program.cs",
+              "RelativeToolTip": "BT5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T08:21:50.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT4\\Program.cs",
+              "RelativeDocumentMoniker": "BT4\\Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN3\\BT1\\BT4\\Program.cs",
+              "RelativeToolTip": "BT4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T08:54:33.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

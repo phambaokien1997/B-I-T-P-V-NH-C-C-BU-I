@@ -1,0 +1,14 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\bin\Debug\net8.0\BT số nguyên tố.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\bin\Debug\net8.0\BT số nguyên tố.deps.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\bin\Debug\net8.0\BT số nguyên tố.runtimeconfig.json
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\bin\Debug\net8.0\BT số nguyên tố.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\bin\Debug\net8.0\BT số nguyên tố.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\obj\Debug\net8.0\BT số nguyên tố.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\obj\Debug\net8.0\BT số nguyên tố.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\obj\Debug\net8.0\BT số nguyên tố.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\obj\Debug\net8.0\BT số nguyên tố.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\obj\Debug\net8.0\BT số nguyên tố.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\obj\Debug\net8.0\refint\BT số nguyên tố.dll
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\obj\Debug\net8.0\BT số nguyên tố.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\obj\Debug\net8.0\BT số nguyên tố.genruntimeconfig.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT1\BT số nguyên tố\obj\Debug\net8.0\ref\BT số nguyên tố.dll

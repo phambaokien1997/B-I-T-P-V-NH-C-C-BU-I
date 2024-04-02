@@ -1,0 +1,4 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\Bài LIST\obj\Debug\net8.0\Bài LIST.GeneratedMSBuildEditorConfig.editorconfig
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\Bài LIST\obj\Debug\net8.0\Bài LIST.AssemblyInfoInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\Bài LIST\obj\Debug\net8.0\Bài LIST.AssemblyInfo.cs
+D:\BÀI TẬP VỀ NHÀ C#\BTVN3\BT2\Bài LIST\obj\Debug\net8.0\Bài LIST.csproj.CoreCompileInputs.cache

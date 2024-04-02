@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BT 30 so nguyen to dau tien/1.0.0": {
+        "runtime": {
+          "BT 30 so nguyen to dau tien.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BT 30 so nguyen to dau tien/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

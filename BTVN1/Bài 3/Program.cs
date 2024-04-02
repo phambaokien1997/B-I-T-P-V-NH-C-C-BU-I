@@ -1,0 +1,16 @@
+﻿float a;
+float b;
+float cong;
+float tru;
+float nhan;
+float chia;
+Console.WriteLine("Nhap a:");
+a = float.Parse(Console.ReadLine());
+Console.WriteLine("Nhap b:");
+b = float.Parse(Console.ReadLine());
+cong = a + b;
+tru = a - b;
+nhan = a * b;
+chia = a / b;
+Console.WriteLine("a + b = {0}, a - b = {1}, a x b = {2}, a / b = {3}", cong, tru, nhan, chia);
+Console.ReadKey();
