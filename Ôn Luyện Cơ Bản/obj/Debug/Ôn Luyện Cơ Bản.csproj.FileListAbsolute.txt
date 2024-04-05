@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\Ôn Luyện Cơ Bản\bin\Debug\Ôn Luyện Cơ Bản.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\Ôn Luyện Cơ Bản\bin\Debug\Ôn Luyện Cơ Bản.exe
+D:\BÀI TẬP VỀ NHÀ C#\Ôn Luyện Cơ Bản\bin\Debug\Ôn Luyện Cơ Bản.pdb
+D:\BÀI TẬP VỀ NHÀ C#\Ôn Luyện Cơ Bản\obj\Debug\Ôn Luyện Cơ Bản.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\Ôn Luyện Cơ Bản\obj\Debug\Ôn Luyện Cơ Bản.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\Ôn Luyện Cơ Bản\obj\Debug\Ôn Luyện Cơ Bản.exe
+D:\BÀI TẬP VỀ NHÀ C#\Ôn Luyện Cơ Bản\obj\Debug\Ôn Luyện Cơ Bản.pdb
