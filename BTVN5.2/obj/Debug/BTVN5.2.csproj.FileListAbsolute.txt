@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN5.2\obj\Debug\BTVN5.2.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN5.2\obj\Debug\BTVN5.2.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN5.2\bin\Debug\BTVN5.2.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\BTVN5.2\bin\Debug\BTVN5.2.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN5.2\bin\Debug\BTVN5.2.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN5.2\obj\Debug\BTVN5.2.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN5.2\obj\Debug\BTVN5.2.pdb
