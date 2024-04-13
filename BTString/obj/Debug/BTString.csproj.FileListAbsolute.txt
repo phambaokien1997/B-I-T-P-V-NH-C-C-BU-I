@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTString\bin\Debug\BTString.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\BTString\bin\Debug\BTString.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTString\bin\Debug\BTString.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTString\obj\Debug\BTString.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTString\obj\Debug\BTString.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTString\obj\Debug\BTString.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTString\obj\Debug\BTString.pdb

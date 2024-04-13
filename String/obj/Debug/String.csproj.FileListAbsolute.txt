@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\String\bin\Debug\String.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\String\bin\Debug\String.exe
+D:\BÀI TẬP VỀ NHÀ C#\String\bin\Debug\String.pdb
+D:\BÀI TẬP VỀ NHÀ C#\String\obj\Debug\String.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\String\obj\Debug\String.exe
+D:\BÀI TẬP VỀ NHÀ C#\String\obj\Debug\String.pdb

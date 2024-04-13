@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\Thư Viện Math C\bin\Debug\Thư Viện Math C.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\Thư Viện Math C\bin\Debug\Thư Viện Math C.exe
+D:\BÀI TẬP VỀ NHÀ C#\Thư Viện Math C\bin\Debug\Thư Viện Math C.pdb
+D:\BÀI TẬP VỀ NHÀ C#\Thư Viện Math C\obj\Debug\Thư Viện Math C.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\Thư Viện Math C\obj\Debug\Thư Viện Math C.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\Thư Viện Math C\obj\Debug\Thư Viện Math C.exe
+D:\BÀI TẬP VỀ NHÀ C#\Thư Viện Math C\obj\Debug\Thư Viện Math C.pdb

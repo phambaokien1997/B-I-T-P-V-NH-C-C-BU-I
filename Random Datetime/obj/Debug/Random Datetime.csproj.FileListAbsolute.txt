@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\Random Datetime\bin\Debug\Random Datetime.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\Random Datetime\bin\Debug\Random Datetime.exe
+D:\BÀI TẬP VỀ NHÀ C#\Random Datetime\bin\Debug\Random Datetime.pdb
+D:\BÀI TẬP VỀ NHÀ C#\Random Datetime\obj\Debug\Random Datetime.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\Random Datetime\obj\Debug\Random Datetime.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\Random Datetime\obj\Debug\Random Datetime.exe
+D:\BÀI TẬP VỀ NHÀ C#\Random Datetime\obj\Debug\Random Datetime.pdb

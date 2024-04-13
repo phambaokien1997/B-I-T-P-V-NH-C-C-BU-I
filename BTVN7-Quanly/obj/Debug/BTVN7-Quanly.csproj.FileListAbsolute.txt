@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7-Quanly\bin\Debug\BTVN7-Quanly.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7-Quanly\bin\Debug\BTVN7-Quanly.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7-Quanly\bin\Debug\BTVN7-Quanly.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7-Quanly\obj\Debug\BTVN7-Quanly.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7-Quanly\obj\Debug\BTVN7-Quanly.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7-Quanly\obj\Debug\BTVN7-Quanly.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7-Quanly\obj\Debug\BTVN7-Quanly.pdb

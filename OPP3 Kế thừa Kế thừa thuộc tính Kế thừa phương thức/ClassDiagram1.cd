@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OPP3_Kế_thừa_Kế_thừa_thuộc_tính_Kế_thừa_phương_thức.NhanVienHanhChinh" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NhanVienHanhChinh.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OPP3_Kế_thừa_Kế_thừa_thuộc_tính_Kế_thừa_phương_thức.NhanVienDiCa" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NhanVienDiCa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OPP3_Kế_thừa_Kế_thừa_thuộc_tính_Kế_thừa_phương_thức.NhanVien" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>NhanVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

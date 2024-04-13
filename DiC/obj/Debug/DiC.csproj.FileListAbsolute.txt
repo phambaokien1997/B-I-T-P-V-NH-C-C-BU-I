@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\DiC\bin\Debug\DiC.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\DiC\bin\Debug\DiC.exe
+D:\BÀI TẬP VỀ NHÀ C#\DiC\bin\Debug\DiC.pdb
+D:\BÀI TẬP VỀ NHÀ C#\DiC\obj\Debug\DiC.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\DiC\obj\Debug\DiC.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\DiC\obj\Debug\DiC.exe
+D:\BÀI TẬP VỀ NHÀ C#\DiC\obj\Debug\DiC.pdb

@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức\bin\Debug\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức\bin\Debug\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức.exe
+D:\BÀI TẬP VỀ NHÀ C#\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức\bin\Debug\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức.pdb
+D:\BÀI TẬP VỀ NHÀ C#\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức\obj\Debug\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức\obj\Debug\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức\obj\Debug\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức.exe
+D:\BÀI TẬP VỀ NHÀ C#\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức\obj\Debug\OPP3 Kế thừa Kế thừa thuộc tính Kế thừa phương thức.pdb
