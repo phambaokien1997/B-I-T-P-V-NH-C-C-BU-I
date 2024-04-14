@@ -8,16 +8,13 @@ namespace BTVN7._2Quản_lý
 {
     public class FullTimeEmployee : Employee
     {
-        public double LuongHangThang { get; }
-
+        public double LuongHangThang { get; set; }
         public FullTimeEmployee(string ten, double luongHangThang) : base(ten, "Full Time")
         {
             LuongHangThang = luongHangThang;
         }
-
         public override double TinhLuong()
         {
-            // Lương toàn thời gian được tính theo tháng
             return LuongHangThang;
         }
     }

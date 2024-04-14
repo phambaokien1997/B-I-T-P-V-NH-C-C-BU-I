@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7.2Quản lý\bin\Debug\BTVN7.2Quản lý.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7.2Quản lý\bin\Debug\BTVN7.2Quản lý.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7.2Quản lý\bin\Debug\BTVN7.2Quản lý.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7.2Quản lý\obj\Debug\BTVN7.2Quản lý.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7.2Quản lý\obj\Debug\BTVN7.2Quản lý.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7.2Quản lý\obj\Debug\BTVN7.2Quản lý.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN7.2Quản lý\obj\Debug\BTVN7.2Quản lý.pdb
