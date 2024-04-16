@@ -70,34 +70,34 @@ namespace BTString
                     gg = true;
 
 
-                
-                //else
-                //{
-                //    Console.WriteLine("Mật khẩu không hợp lệ");
-                //}
+
+                    //else
+                    //{
+                    //    Console.WriteLine("Mật khẩu không hợp lệ");
+                    //}
 
 
-                bool check = false;
-                int soLanNhapSai = 0;
-                do
-                {
-
-                    Console.WriteLine("Nhập vào đây mật khẩu đi thím ơi:");
-                    string nhap = Console.ReadLine();
-                    if (nhap.Equals(mk))
+                    bool check = false;
+                    int soLanNhapSai = 0;
+                    do
                     {
-                        Console.WriteLine("Bạn đã đăng nhập thành công!");
-                        check = true;
-                        break;
+
+                        Console.WriteLine("Nhập vào đây mật khẩu đi thím ơi:");
+                        string nhap = Console.ReadLine();
+                        if (nhap.Equals(mk))
+                        {
+                            Console.WriteLine("Bạn đã đăng nhập thành công!");
+                            check = true;
+                            break;
+                        }
+                        soLanNhapSai++;
+                        if (soLanNhapSai == 6)
+                        {
+                            Console.WriteLine("Bạn đã nhập sai quá 5 lần. Hãy chạy lại chương trình");
+                            break;
+                        }
                     }
-                    soLanNhapSai++;
-                    if (soLanNhapSai == 6)
-                    {
-                        Console.WriteLine("Bạn đã nhập sai quá 5 lần. Hãy chạy lại chương trình");
-                        break;
-                    }
-                }
-                while (!check);
+                    while (!check);
                 }
             }
             while (!gg);
@@ -109,16 +109,72 @@ namespace BTString
             string c = "";
             Console.WriteLine("Mời bạn nhập vào chuỗi cần mã hóa");
             string doanNhap = Console.ReadLine();
-            foreach(char d in doanNhap)
+            foreach (char d in doanNhap)
             {
                 int indexKytu = a.IndexOf(d);
                 //Console.WriteLine(b[indexKytu]);
                 c += b[indexKytu];
             }
-            Console.WriteLine("Chuỗi sau khi mã hóa là: "+c);
+            Console.WriteLine("Chuỗi sau khi mã hóa là: " + c);
 
 
+            //C# 22
+            string cx = @"tôi chăm học
+            tôi chịu khó
+            tôi đẹp zai";
+            string toi = "tôi";
+            string[] list22 = cx.Split(' ');
+            int sum22 = 0;
+            foreach(string l in list22)
+            {
+                if(l.Equals(toi) == true)
+                {
+                    sum22++;
+                }    
+            }
+            Console.WriteLine("Có {0} chữ tôi trong đoạn zăn á nghen", sum22);
+            //C# 23
+            Console.WriteLine("Nhập vào đây một chuỗi gồm số và chữ:");
+            string nhap23 = Console.ReadLine();
+            string[] lst23 = nhap23.Split(' ');
+
+            foreach ( string l in lst23)
+            {
+                char[] lz = l.ToCharArray();
+                foreach(char i in lz )
+                {
+                    if (char.IsDigit(i))
+                    {
+                        Console.WriteLine(l);
+                        break;
+                    }   
+                    if (char.IsLetter(i))
+                    {
+                        Console.WriteLine(l);
+                        break;
+                    }    
+                }    
+            }
+                
+            //string nhap23So = "";
+            //string nhap23Chu = "";
+            //char[] kt23 = nhap23.ToCharArray();
+            //foreach(char k in kt23)
+            //{
+            //    if(char.IsDigit(k))
+            //    {
+            //        nhap23So += k;
+            //    }    
+            //    else if (char.IsLetter(k))
+            //    {
+            //        nhap23Chu += k;
+            //    }    
+            //}
+            //Console.WriteLine("Chuỗi chữ là :" + nhap23Chu);
+            //Console.WriteLine("Chuỗi số là :" + nhap23So);
+            
             Console.ReadKey();
+
 
 
 

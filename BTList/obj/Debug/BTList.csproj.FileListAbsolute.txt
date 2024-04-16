@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTList\bin\Debug\BTList.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\BTList\bin\Debug\BTList.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTList\bin\Debug\BTList.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTList\obj\Debug\BTList.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTList\obj\Debug\BTList.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTList\obj\Debug\BTList.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTList\obj\Debug\BTList.pdb

@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTMang1Chieu\bin\Debug\BTMang1Chieu.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\BTMang1Chieu\bin\Debug\BTMang1Chieu.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTMang1Chieu\bin\Debug\BTMang1Chieu.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTMang1Chieu\obj\Debug\BTMang1Chieu.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTMang1Chieu\obj\Debug\BTMang1Chieu.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTMang1Chieu\obj\Debug\BTMang1Chieu.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTMang1Chieu\obj\Debug\BTMang1Chieu.pdb

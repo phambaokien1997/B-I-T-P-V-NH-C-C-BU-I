@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\Mảng 1 chiều\bin\Debug\Mảng 1 chiều.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\Mảng 1 chiều\bin\Debug\Mảng 1 chiều.exe
+D:\BÀI TẬP VỀ NHÀ C#\Mảng 1 chiều\bin\Debug\Mảng 1 chiều.pdb
+D:\BÀI TẬP VỀ NHÀ C#\Mảng 1 chiều\obj\Debug\Mảng 1 chiều.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\Mảng 1 chiều\obj\Debug\Mảng 1 chiều.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\Mảng 1 chiều\obj\Debug\Mảng 1 chiều.exe
+D:\BÀI TẬP VỀ NHÀ C#\Mảng 1 chiều\obj\Debug\Mảng 1 chiều.pdb

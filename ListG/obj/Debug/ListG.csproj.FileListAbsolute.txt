@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\ListG\bin\Debug\ListG.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\ListG\bin\Debug\ListG.exe
+D:\BÀI TẬP VỀ NHÀ C#\ListG\bin\Debug\ListG.pdb
+D:\BÀI TẬP VỀ NHÀ C#\ListG\obj\Debug\ListG.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\ListG\obj\Debug\ListG.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\ListG\obj\Debug\ListG.exe
+D:\BÀI TẬP VỀ NHÀ C#\ListG\obj\Debug\ListG.pdb

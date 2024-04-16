@@ -1,0 +1,7 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN8.1\bin\Debug\BTVN8.1.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\BTVN8.1\bin\Debug\BTVN8.1.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN8.1\bin\Debug\BTVN8.1.pdb
+D:\BÀI TẬP VỀ NHÀ C#\BTVN8.1\obj\Debug\BTVN8.1.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN8.1\obj\Debug\BTVN8.1.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN8.1\obj\Debug\BTVN8.1.exe
+D:\BÀI TẬP VỀ NHÀ C#\BTVN8.1\obj\Debug\BTVN8.1.pdb
