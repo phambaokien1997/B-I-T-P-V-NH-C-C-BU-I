@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BTVN8._2
 {
-    class Product
+    abstract class Product
     {
         public string Code { get; set; }
         public string Name { get; set; }

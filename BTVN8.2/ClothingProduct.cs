@@ -10,7 +10,12 @@ namespace BTVN8._2
     {
         public override void InputProductInfo()
         {
-            base.InputProductInfo();
+            Console.Write("Mã hàng: ");
+            Code = Console.ReadLine();
+            Console.Write("Tên hàng: ");
+            Name = Console.ReadLine();
+            Console.Write("Giá tiền: ");
+            Price = decimal.Parse(Console.ReadLine());
         }
     }
 }

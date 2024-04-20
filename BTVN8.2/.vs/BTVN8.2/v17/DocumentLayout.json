@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn8.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|solutionrelative:inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|solutionrelative:clothingproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn8.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|solutionrelative:inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2C4E53F-71E4-456E-8EB8-322C626D52AF}|BTVN8.2.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\electronicproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InputValidator.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\InputValidator.cs",
               "RelativeDocumentMoniker": "InputValidator.cs",
@@ -50,15 +50,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ClothingProduct.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\ClothingProduct.cs",
               "RelativeDocumentMoniker": "ClothingProduct.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\ClothingProduct.cs",
               "RelativeToolTip": "ClothingProduct.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T07:28:04.234Z"
+              "WhenOpened": "2024-04-16T07:28:04.234Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -86,25 +87,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\Product.cs",
               "RelativeDocumentMoniker": "Product.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\Product.cs",
               "RelativeToolTip": "Product.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAcwC0AAAANAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T07:25:47.073Z"
+              "WhenOpened": "2024-04-16T07:25:47.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN8.2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAFwAAAAAAAAAAAAgwGoAAAAtAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAADwv0sAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T07:24:06.119Z",
               "EditorCaption": ""

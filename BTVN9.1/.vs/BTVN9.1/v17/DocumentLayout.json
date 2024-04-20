@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn9.1\\concreteproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|solutionrelative:concreteproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|solutionrelative:productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn9.1\\productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33800C08-E3CD-48CB-8CCA-7E6FA0F16D24}|BTVN9.1.csproj|solutionrelative:productvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductValidator.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\ProductValidator.cs",
+              "RelativeDocumentMoniker": "ProductValidator.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\ProductValidator.cs",
+              "RelativeToolTip": "ProductValidator.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:13:31.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConcreteProductManager.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\ConcreteProductManager.cs",
+              "RelativeDocumentMoniker": "ConcreteProductManager.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\ConcreteProductManager.cs",
+              "RelativeToolTip": "ConcreteProductManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:17:58.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\ProductManager.cs",
+              "RelativeDocumentMoniker": "ProductManager.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\ProductManager.cs",
+              "RelativeToolTip": "ProductManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:12:54.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:23:25.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T10:22:32.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
