@@ -1,0 +1,2 @@
+D:\BÀI TẬP VỀ NHÀ C#\BTVN10\obj\Debug\BTVN10.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\BTVN10\obj\Debug\BTVN10.csproj.CoreCompileInputs.cache

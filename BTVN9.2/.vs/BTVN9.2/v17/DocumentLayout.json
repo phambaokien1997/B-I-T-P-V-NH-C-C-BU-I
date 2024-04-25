@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn9.2\\studentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|solutionrelative:studentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn9.2\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|solutionrelative:validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn9.2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn9.2\\istudentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|solutionrelative:istudentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\studentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|solutionrelative:studentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn9.2\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|solutionrelative:course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\istudentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6260FB18-7099-4E8A-9558-79667B951DB3}|BTVN9.2.csproj|solutionrelative:istudentregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\Validator.cs",
+              "RelativeDocumentMoniker": "Validator.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\Validator.cs",
+              "RelativeToolTip": "Validator.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwC4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T06:03:34.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StudentRegister.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\StudentRegister.cs",
               "RelativeDocumentMoniker": "StudentRegister.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\StudentRegister.cs",
               "RelativeToolTip": "StudentRegister.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBgAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T07:38:47.437Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "IStudentRegister.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\IStudentRegister.cs",
               "RelativeDocumentMoniker": "IStudentRegister.cs",
@@ -92,7 +109,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN9.2\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAhwDIAAABkAAAA",
+              "ViewState": "AQIAADwAAAAAAAAAAAAhwEsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T07:07:54.477Z",
               "EditorCaption": ""

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BTVN9._2
 {
-    internal class StudentRegister : IStudentRegister
+    class StudentRegister : IStudentRegister
     {
         private List<(Student hocVien, Course khoaHoc, DateTime ngayDangKy)> danhSachDangKy = new List<(Student, Course, DateTime)> ();
         public void Dangky(Student hocVien, Course khoaHoc, DateTime ngayDangKy)

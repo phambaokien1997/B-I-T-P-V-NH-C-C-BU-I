@@ -14,7 +14,6 @@ namespace BTVN4
         public string TieuDe;
         public string TacGia;
         public int NamSx;
-
     }
 
     internal class Program
