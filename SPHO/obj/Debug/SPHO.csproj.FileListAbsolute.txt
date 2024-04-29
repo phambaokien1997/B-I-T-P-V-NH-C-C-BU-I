@@ -1,0 +1,10 @@
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\bin\Debug\SPHO.exe.config
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\bin\Debug\SPHO.exe
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\bin\Debug\SPHO.pdb
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\obj\Debug\SPHO.csproj.AssemblyReference.cache
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\obj\Debug\SPHO.csproj.CoreCompileInputs.cache
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\obj\Debug\SPHO.exe
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\obj\Debug\SPHO.pdb
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\bin\Debug\Newtonsoft.Json.dll
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\bin\Debug\Newtonsoft.Json.xml
+D:\BÀI TẬP VỀ NHÀ C#\SPHO\obj\Debug\SPHO.csproj.Up2Date

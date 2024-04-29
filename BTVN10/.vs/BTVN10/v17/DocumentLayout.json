@@ -3,83 +3,87 @@
   "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\repositories\\phongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:repositories\\phongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\repositories\\thanhtoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:repositories\\thanhtoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\services\\thanhtoanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:services\\thanhtoanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\services\\datphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:services\\datphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\services\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:services\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\services\\quanlyphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:services\\quanlyphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\services\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:services\\khachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\models\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\repositories\\datphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:repositories\\datphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\interfaces\\ikhachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\ikhachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\models\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\models\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\interfaces\\idatphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\idatphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\repositories\\phongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:repositories\\phongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\repositories\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:repositories\\khachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\models\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\datphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\models\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\loaiphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\interfaces\\idatphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\idatphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\interfaces\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\interfaces\\ikhachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\ikhachhangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\repositories\\thanhtoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:repositories\\thanhtoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\services\\datphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:services\\datphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\repositories\\datphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:repositories\\datphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\models\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:models\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\repositories\\loaiphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:repositories\\loaiphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\interfaces\\ithanhtoanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\interfaces\\ithanhtoanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\ithanhtoanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\interfaces\\ithanhtoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\interfaces\\ithanhtoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\ithanhtoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -91,15 +95,11 @@
       "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\iphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\interfaces\\iloaiphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\interfaces\\iloaiphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\iloaiphongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\interfaces\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\ikhachhangservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn10\\interfaces\\idatphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\interfaces\\idatphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2D4794-80C8-4E1B-8463-478D4EA64AA1}|BTVN10.csproj|solutionrelative:interfaces\\idatphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -110,11 +110,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "App.config",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -122,12 +122,11 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-25T06:24:16.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T06:24:16.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IThanhToanService.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Interfaces\\IThanhToanService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IThanhToanService.cs",
@@ -135,12 +134,11 @@
               "RelativeToolTip": "Interfaces\\IThanhToanService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:46:09.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:46:09.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 10,
               "Title": "IKhachHangService.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Interfaces\\IKhachHangService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IKhachHangService.cs",
@@ -148,8 +146,7 @@
               "RelativeToolTip": "Interfaces\\IKhachHangService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:45:44.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:45:44.995Z"
             },
             {
               "$type": "Document",
@@ -161,12 +158,11 @@
               "RelativeToolTip": "Interfaces\\IDatPhongService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:45:16.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:45:16.297Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IThanhToanRepository.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Interfaces\\IThanhToanRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IThanhToanRepository.cs",
@@ -174,12 +170,11 @@
               "RelativeToolTip": "Interfaces\\IThanhToanRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:44:15.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:44:15.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ILoaiPhongRepository.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Interfaces\\ILoaiPhongRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\ILoaiPhongRepository.cs",
@@ -187,8 +182,7 @@
               "RelativeToolTip": "Interfaces\\ILoaiPhongRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:43:51.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:43:51.363Z"
             },
             {
               "$type": "Document",
@@ -200,12 +194,11 @@
               "RelativeToolTip": "Interfaces\\IKhachHangRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T05:30:06.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T05:30:06.455Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "KhachHangService.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Services\\KhachHangService.cs",
               "RelativeDocumentMoniker": "Services\\KhachHangService.cs",
@@ -218,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "IDatPhongRepository.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Interfaces\\IDatPhongRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IDatPhongRepository.cs",
@@ -231,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IQuanLyPhongService.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Interfaces\\IQuanLyPhongService.cs",
               "RelativeDocumentMoniker": "Interfaces\\IQuanLyPhongService.cs",
@@ -239,12 +232,11 @@
               "RelativeToolTip": "Interfaces\\IQuanLyPhongService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T07:42:08.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T07:42:08.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ThanhToan.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Models\\ThanhToan.cs",
               "RelativeDocumentMoniker": "Models\\ThanhToan.cs",
@@ -252,12 +244,11 @@
               "RelativeToolTip": "Models\\ThanhToan.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T07:41:42.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T07:41:42.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "ThanhToanRepository.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Repositories\\ThanhToanRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ThanhToanRepository.cs",
@@ -265,12 +256,11 @@
               "RelativeToolTip": "Repositories\\ThanhToanRepository.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAADgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T07:41:05.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T07:41:05.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IPhongRepository.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Interfaces\\IPhongRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IPhongRepository.cs",
@@ -278,12 +268,11 @@
               "RelativeToolTip": "Interfaces\\IPhongRepository.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-24T07:37:35.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-24T07:37:35.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ThanhToanService.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Services\\ThanhToanService.cs",
               "RelativeDocumentMoniker": "Services\\ThanhToanService.cs",
@@ -296,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 4,
               "Title": "KhachHangRepository.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Repositories\\KhachHangRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\KhachHangRepository.cs",
@@ -309,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "DatPhongService.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Services\\DatPhongService.cs",
               "RelativeDocumentMoniker": "Services\\DatPhongService.cs",
@@ -317,12 +306,11 @@
               "RelativeToolTip": "Services\\DatPhongService.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAABsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:49:26.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T11:49:26.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "QuanLyPhongService.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Services\\QuanLyPhongService.cs",
               "RelativeDocumentMoniker": "Services\\QuanLyPhongService.cs",
@@ -335,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PhongRepository.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Repositories\\PhongRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\PhongRepository.cs",
@@ -348,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "DatPhongRepository.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Repositories\\DatPhongRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\DatPhongRepository.cs",
@@ -356,12 +344,11 @@
               "RelativeToolTip": "Repositories\\DatPhongRepository.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAAAFUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:49:26.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T11:49:26.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "LoaiPhongRepository.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Repositories\\LoaiPhongRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\LoaiPhongRepository.cs",
@@ -369,12 +356,11 @@
               "RelativeToolTip": "Repositories\\LoaiPhongRepository.cs",
               "ViewState": "AQIAADcAAAAAAAAAAAAAAEwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T11:49:26.221Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-22T11:49:26.221Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 8,
               "Title": "LoaiPhong.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Models\\LoaiPhong.cs",
               "RelativeDocumentMoniker": "Models\\LoaiPhong.cs",
@@ -387,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "KhachHang.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Models\\KhachHang.cs",
               "RelativeDocumentMoniker": "Models\\KhachHang.cs",
@@ -400,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "DatPhong.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Models\\DatPhong.cs",
               "RelativeDocumentMoniker": "Models\\DatPhong.cs",
@@ -413,29 +399,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Phong.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Models\\Phong.cs",
               "RelativeDocumentMoniker": "Models\\Phong.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Models\\Phong.cs",
               "RelativeToolTip": "Models\\Phong.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAA0AAAAwAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA6wA0AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-22T11:49:25.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN10\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAiwEIAAAAAAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADUAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T08:44:14.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T08:44:14.182Z"
             }
           ]
         }
