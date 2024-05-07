@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\spho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\service\\libraryfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|solutionrelative:service\\libraryfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\service\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|solutionrelative:service\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\spho\\service\\libraryfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|solutionrelative:service\\libraryfilereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\spho\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\spho\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\exception\\libraryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DB5CC7-9FDC-4E5A-890F-F8402D1052EC}|SPHO.csproj|solutionrelative:exception\\libraryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +34,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryException.cs",
+              "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\Exception\\LibraryException.cs",
+              "RelativeDocumentMoniker": "Exception\\LibraryException.cs",
+              "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\Exception\\LibraryException.cs",
+              "RelativeToolTip": "Exception\\LibraryException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T06:36:32.714Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -42,12 +58,11 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-27T17:11:57.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-27T17:11:57.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\service\\Class1.cs",
               "RelativeDocumentMoniker": "service\\Class1.cs",
@@ -60,39 +75,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LibraryFileReader.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\service\\LibraryFileReader.cs",
               "RelativeDocumentMoniker": "service\\LibraryFileReader.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\service\\LibraryFileReader.cs",
               "RelativeToolTip": "service\\LibraryFileReader.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAATAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T16:05:35.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "LibraryManager.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\service\\LibraryManager.cs",
               "RelativeDocumentMoniker": "service\\LibraryManager.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\service\\LibraryManager.cs",
               "RelativeToolTip": "service\\LibraryManager.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAArwBEAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-27T09:58:03.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\SPHO\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAASwA4AAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-25T08:05:35.409Z",
               "EditorCaption": ""
