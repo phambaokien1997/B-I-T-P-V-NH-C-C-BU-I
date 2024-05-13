@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{76FCBFE5-888B-47E3-B0D2-08A5B269C4D4}|BTVN7.2Qu\u1EA3n l\u00FD.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FCBFE5-888B-47E3-B0D2-08A5B269C4D4}|BTVN7.2Qu\u1EA3n l\u00FD.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{76FCBFE5-888B-47E3-B0D2-08A5B269C4D4}|BTVN7.2Qu\u1EA3n l\u00FD.csproj|d:\\b\u00E0i t\u1EADp v\u1EC1 nh\u00E0 c#\\btvn7.2qu\u1EA3n l\u00FD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76FCBFE5-888B-47E3-B0D2-08A5B269C4D4}|BTVN7.2Qu\u1EA3n l\u00FD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{76FCBFE5-888B-47E3-B0D2-08A5B269C4D4}|BTVN7.2Qu\u1EA3n l\u00FD.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76FCBFE5-888B-47E3-B0D2-08A5B269C4D4}|BTVN7.2Qu\u1EA3n l\u00FD.csproj|solutionrelative:fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76FCBFE5-888B-47E3-B0D2-08A5B269C4D4}|BTVN7.2Qu\u1EA3n l\u00FD.csproj|D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76FCBFE5-888B-47E3-B0D2-08A5B269C4D4}|BTVN7.2Qu\u1EA3n l\u00FD.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Intern.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\Intern.cs",
               "RelativeDocumentMoniker": "Intern.cs",
@@ -46,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PartTimeEmployee.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\PartTimeEmployee.cs",
               "RelativeDocumentMoniker": "PartTimeEmployee.cs",
@@ -58,7 +58,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FullTimeEmployee.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\FullTimeEmployee.cs",
               "RelativeDocumentMoniker": "FullTimeEmployee.cs",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
@@ -78,17 +78,18 @@
               "RelativeToolTip": "Employee.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-13T14:45:29.596Z"
+              "WhenOpened": "2024-04-13T14:45:29.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\B\u00C0I T\u1EACP V\u1EC0 NH\u00C0 C#\\BTVN7.2Qu\u1EA3n l\u00FD\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAEwAAAAAAAAAAAAuwF4AAABlAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAF4AAABlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T14:34:01.371Z",
               "EditorCaption": ""
