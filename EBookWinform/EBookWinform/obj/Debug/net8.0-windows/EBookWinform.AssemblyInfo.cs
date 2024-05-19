@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EBookWinform")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67e28d46790389bfe37305a0ec121cab2bf8dca1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe5cf242220e2f99fe965829a6f11e927363c28a")]
 [assembly: System.Reflection.AssemblyProductAttribute("EBookWinform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EBookWinform")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
